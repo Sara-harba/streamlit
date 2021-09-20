@@ -9,7 +9,6 @@ import pandas as pd
 import numpy as np
 import plotly
 import plotly.express as px
-import plotly.express as px
 
 st.title('Plotly Visulaization')
 st.text('This is an implemetation of Plotly visualization')
