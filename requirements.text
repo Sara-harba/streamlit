@@ -1,4 +1,7 @@
+chart-studio==1.1.0
+plotly==5.3.1
 import streamlit as st
+import chart_studio.plotly as py
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
 import pandas as pd
