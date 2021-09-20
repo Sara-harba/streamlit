@@ -3,6 +3,7 @@
 
 # In[ ]:
 import streamlit as st
+import chart_studio.plotly as py
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
 import pandas as pd
