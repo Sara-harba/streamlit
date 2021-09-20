@@ -1,4 +1,6 @@
 streamlit==0.87.0 
+numpy==1.20.2
+pandas==1.2.4
 import streamlit as st
 import chart_studio.plotly as py
 import plotly.figure_factory as ff
