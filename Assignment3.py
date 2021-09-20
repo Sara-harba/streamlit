@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # In[ ]:
-!pip install plotly
-!pip install chart_studio
 import streamlit as st
 import plotly
 import chart_studio
